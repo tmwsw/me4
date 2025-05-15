@@ -86,43 +86,42 @@ ME4/
 
 Оценка качества модели на тестовой выборке:
 
-- **Average ROC-AUC**: 0.801
-- **Average F1**: 0.654
+- **Average ROC-AUC**: 0.799
+- **Average F1**: 0.651
 
 
 ## Метрики модели Random Forest (Ежов)
 
 Оценка качества модели на тестовой выборке:
 
-- **Average ROC-AUC**: 0.618
-- **Average F1**: 0.432
+- **Average ROC-AUC**: 0.650
+- **Average F1**: 0.449
 
 ## Метрики модели Linear SVC (Марин)
 
 Оценка качества модели на тестовой выборке:
 
-- **Average ROC-AUC**: 0.655
-- **Average F1**: 0.514
+- **Average ROC-AUC**: 0.727
+- **Average F1**: 0.594
 
 ## Метрики модели CatBoostClassifier (Марин)
 
 Оценка качества модели на тестовой выборке:
 
-- **Average ROC-AUC**: 0.747
-- **Average F1**: 0.622
+- **Average ROC-AUC**: 0.754
+- **Average F1**: 0.631
 
 ## Запуск проекта
 
 1. Клонировать репозиторий:
    ```sh
-   git clone https://github.com/tmwsw/MGC
+   git clone https://github.com/tmwsw/me4
    ```
 2. Установить зависимости:
    ```sh
    pip install -r requirements.txt
    ```
-3. Запустить `main.ipynb` для обучения модели.
-4. Использовать приложение для получения прогнозов.
+3. Запустить `training.ipynb` для обучения модели.
 
 ## Выводы
 
