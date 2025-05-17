@@ -86,30 +86,30 @@ ME4/
 
 Оценка качества модели на тестовой выборке:
 
-- **Average ROC-AUC**: 0.799
-- **Average F1**: 0.651
+- **Average ROC-AUC**: 0.797
+- **Average F1**: 0.650
 
 
 ## Метрики модели Random Forest (Ежов)
 
 Оценка качества модели на тестовой выборке:
 
-- **Average ROC-AUC**: 0.650
-- **Average F1**: 0.449
+- **Average ROC-AUC**: 0.744
+- **Average F1**: 0.609
 
 ## Метрики модели Linear SVC (Марин)
 
 Оценка качества модели на тестовой выборке:
 
-- **Average ROC-AUC**: 0.727
-- **Average F1**: 0.594
+- **Average ROC-AUC**: 0.797
+- **Average F1**: 0.649
 
 ## Метрики модели CatBoostClassifier (Марин)
 
 Оценка качества модели на тестовой выборке:
 
-- **Average ROC-AUC**: 0.754
-- **Average F1**: 0.631
+- **Average ROC-AUC**: 0.756
+- **Average F1**: 0.632
 
 ## Запуск проекта
 
